@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "YBPEUMU1gyQ0HtllLWSc070MV/Rh0pP8q+o8eqmDRu8=",
+  "Source": "FormsPractice",
+  "BasePath": "_content/FormsPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FormsPractice\\wwwroot",
+      "Source": "FormsPractice",
+      "ContentRoot": "C:\\Users\\lucas\\Code\\Fall2022\\WebDev\\FormsPractice\\wwwroot\\",
+      "BasePath": "_content/FormsPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lucas\\Code\\Fall2022\\WebDev\\FormsPractice\\wwwroot\\calendar.html",
+      "SourceId": "FormsPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Code\\Fall2022\\WebDev\\FormsPractice\\wwwroot\\",
+      "BasePath": "_content/FormsPractice",
+      "RelativePath": "calendar.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\calendar.html"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Code\\Fall2022\\WebDev\\FormsPractice\\wwwroot\\postTest.html",
+      "SourceId": "FormsPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Code\\Fall2022\\WebDev\\FormsPractice\\wwwroot\\",
+      "BasePath": "_content/FormsPractice",
+      "RelativePath": "postTest.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\postTest.html"
+    }
+  ]
+}

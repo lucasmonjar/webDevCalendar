@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calendar</title>
+</head>
+<body>
+  <form method="get" action="/calendar/form">
+    <label>Please choose your type of event.</label><br>
+    <input type="radio" value="Work" name="event_type">
+    <label>Work</label><br>
+    <input type="radio" value="Family" name="event_type">
+    <label>Family</label><br>
+    <input type="radio" value="Vacation" name="event_type">
+    <label>Vacation</label><br>
+    <input type="radio" value="Meeting" name="event_type">
+    <labe>Meeting</labe><br>
+    <label>Please add the description of your event. </label><input type="text" name="description"><br>
+    <label>Please choose the color of your event.</label><input type="color" name="color"><br>
+    <label>Please enter the date.</label><input type="date" name="event_date"><br>
+    <label>Please enter the start and end time</label><input type="time" name="start_time"><input type="time" name="end_time"><br>
+    <input type="submit" name="submit_form"><input type="reset" name="reset_form"><br>
+  </form>
+</body>
+</html>
